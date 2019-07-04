@@ -2,9 +2,9 @@
   "name": "app-api-interface",
   "version": "1.0.0",
   "description": "Acts as an interface between the application and an API call. Forwards data fetched from API to APP.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon index.js",
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
